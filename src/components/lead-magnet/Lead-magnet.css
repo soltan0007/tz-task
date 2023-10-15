@@ -1,0 +1,40 @@
+.lead-magnet {
+    text-align: center;
+    background-color: #0a0a0a;
+    padding: 20px;
+    margin-top: 50px;
+    width: 1250px;
+    margin-left: 90px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+    color: white;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 0;
+    color: #ff0000;
+    padding-bottom: 10px;
+
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0000; /* Червоний колір для кнопки */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #cc0000; /* Зміна кольору при наведенні курсора */
+}
